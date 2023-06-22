@@ -4,15 +4,18 @@ ITsのプログラミング教室で使用した資料を置いておく場所�
 
 ## 講義資料
 
-- [第一回](https://github.com/Imanect0/its-programming-cource/blob/main/docs/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E5%AE%A4%E7%AC%AC%E4%B8%80%E5%9B%9E.pdf)
+- [第一回](./docs/プログラミング教室第一回.pdf)
     - print文
     - 四則演算
     - 変数
     - 文字列操作
-    - リスト
+    - リストの基本
   
-- [第二回](https://github.com/Imanect0/its-programming-cource/blob/main/docs/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E5%AE%A4%E7%AC%AC%E4%BA%8C%E5%9B%9E.pdf)
-    - 
+- [第二回](./docs/プログラミング教室第二回.pdf)
+    - リスト操作
+    - 論理演算子
+    - 条件分岐
+    - 繰り返し処理
 ## 演習問題
 
-- [Part1]
+- [Part1](./notebooks/演習問題Part1.ipynb)
